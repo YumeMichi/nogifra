@@ -1,0 +1,3 @@
+[submodule "masterdata"]
+	path = masterdata
+	url = https://github.com/YumeMichi/nogifra_master_db_diff.git
